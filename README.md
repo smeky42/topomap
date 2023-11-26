@@ -1,2 +1,2 @@
 # topomap
-Create a Topographic map
+create a topographic map
